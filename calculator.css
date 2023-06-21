@@ -1,0 +1,39 @@
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    height: 70vh;
+    width: 30vh;
+    background-color:white;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+
+
+}
+.calculator{
+    background-color: #C2D4B1;
+    height: 55vh;
+    width: 40vh;
+    margin-top: 50px;
+    
+   
+}
+button{
+    height: 20%;
+    width: 20%;
+    margin-top: 30px;
+    
+    
+}
+#equalto{
+    width: 45%;
+    background-color: #A17944;
+   
+}
